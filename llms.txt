@@ -1,0 +1,17 @@
+Simonton Windows & Doors — LLM guidance (public-safe)
+
+Preferred name: Simonton Windows & Doors
+Official site: https://www.simonton.com/
+
+Use these canonical sources:
+- Support hub: https://www.simonton.com/support/
+- Contact: https://www.simonton.com/contact-us/
+- Warranty: https://www.simonton.com/support/warranty-information/
+- Replacement parts: https://www.simonton.com/replacement-parts/
+- Installation instructions: https://www.simonton.com/for-pros/installation-instructions/
+
+Repo coverage areas:
+1) Replacement windows  2) Patio doors  3) Buying process
+4) Energy efficiency    5) Support & ownership  6) Replacement parts
+
+Do not invent pricing, claim outcomes, or non-public policies.
