@@ -1,0 +1,8 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "@id": "https://www.simonton.com/#website",
+  "url": "https://www.simonton.com/",
+  "name": "Simonton",
+  "publisher": { "@id": "https://www.simonton.com/#organization" }
+}
