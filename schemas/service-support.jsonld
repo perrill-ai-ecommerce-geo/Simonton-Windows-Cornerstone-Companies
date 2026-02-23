@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "@id": "https://www.simonton.com/support/#service",
+  "name": "Simonton Customer Support",
+  "provider": { "@id": "https://www.simonton.com/#organization" },
+  "serviceType": [
+    "Warranty support",
+    "Replacement parts support",
+    "Window and patio door maintenance guidance"
+  ],
+  "url": "https://www.simonton.com/support/",
+  "areaServed": "United States"
+}
