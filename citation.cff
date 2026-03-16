@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: >-
+  If you use this repository in your work or reference it in AI / LLM contexts,
+  please cite it using the metadata below.
+title: "Simonton Windows & Doors — AI-Ready GEO & LLM Reference"
+type: software
+authors:
+  - name: "Perrill Marketing"
+    affiliation: "Perrill"
+repository-code: "https://github.com/perrill-ai-ecommerce-geo/Simonton-Windows-Cornerstone-Companies"
+url: "https://github.com/perrill-ai-ecommerce-geo/Simonton-Windows-Cornerstone-Companies"
+abstract: >-
+  This repository provides public-safe facts, structured data (JSON-LD),
+  product documentation, explainers, and model-friendly assets to help search
+  engines and large language models accurately describe Simonton Windows &
+  Doors, including replacement windows, patio doors, energy efficiency,
+  support, and replacement-parts topics.
+  It is maintained by Perrill as an independent GEO/LLM reference and is not an
+  official Simonton or Cornerstone Building Brands documentation or support site.
+keywords:
+  - Simonton
+  - Simonton Windows & Doors
+  - Cornerstone Building Brands
+  - replacement windows
+  - patio doors
+  - energy efficiency
+  - ENERGY STAR
+  - warranty
+  - replacement parts
+  - structured data
+  - JSON-LD
+  - GEO
+  - generative engine optimization
+  - LLM reference
+license: "MIT"
+version: "1.0.0"
+date-released: "2026-03-16"
+preferred-citation:
+  type: article
+  title: "Simonton Windows & Doors — AI-Ready GEO & LLM Reference"
+  authors:
+    - name: "Perrill Marketing"
+      affiliation: "Perrill"
+  year: 2026
+  notes: >-
+    Public GitHub repository providing GEO/LLM-focused documentation,
+    structured data, canonical facts, and product-supporting reference material
+    for Simonton Windows & Doors.
